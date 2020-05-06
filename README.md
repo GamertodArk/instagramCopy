@@ -8,4 +8,5 @@ This is a small project trying to mimic the functionality of instagram implement
     - Vue
 
 ## Screenshot
-[Screenshot]()
+![Screenshot][screenshot]
+[screenshot]: https://github.com/GamertodArk/instagramCopy/blob/master/projectScreenshots/Screenshot_2020-05-05%20InstagramCopy.png "Screenshot of a profile"
